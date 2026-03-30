@@ -21,6 +21,10 @@ javascript-certification/
 │   └── string-transformer/
 │
 ├── 02-booleans-and-numbers/ (in progress)
+│   ├── logic-checker-app/
+│   ├── mathbot/
+│   └── fortune-teller/
+│
 ├── 03-functions/ (in progress)
 ├── 04-arrays/ (in progress)
 ├── 05-objects/ (in progress)
