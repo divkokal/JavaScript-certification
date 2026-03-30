@@ -9,6 +9,7 @@ This repository contains my work from the FreeCodeCamp JavaScript Certification,
 javascript-certification/
 │
 ├── README.md
+├── .gitignore
 │
 ├── 01-variables-and-strings/ (in progress)
 │   ├── greeting-bot/
