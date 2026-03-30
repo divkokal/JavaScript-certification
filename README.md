@@ -11,7 +11,7 @@ javascript-certification/
 ├── README.md
 ├── .gitignore
 │
-├── 01-variables-and-strings/ (in progress)
+├── 01-variables-and-strings/ (done ☑️)
 │   ├── greeting-bot/
 │   ├── trivia-bot/
 │   ├── sentence-maker/
