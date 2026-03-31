@@ -20,12 +20,22 @@ javascript-certification/
 │   ├── string-formatter/
 │   └── string-transformer/
 │
-├── 02-booleans-and-numbers/ (in progress)
+├── 02-booleans-and-numbers/ (done ☑️)
 │   ├── logic-checker-app/
 │   ├── mathbot/
 │   └── fortune-teller/
 │
 ├── 03-functions/ (in progress)
+│   ├── calculator/
+│   ├── boolean-check/
+│   ├── email-masker/
+│   ├── loan-qualification-checker/
+│   ├── celsius-to-fahrenheit/
+│   ├── card-counting-assistant/
+│   ├── leap-year-calculator/
+│   ├── truncate-string/
+│   └── confirm-ending/
+│
 ├── 04-arrays/ (in progress)
 ├── 05-objects/ (in progress)
 ├── 06-loops/ (in progress)
